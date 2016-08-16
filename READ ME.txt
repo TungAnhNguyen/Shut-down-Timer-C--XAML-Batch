@@ -1,9 +1,0 @@
-READ ME
----
-
-These 3 files must be accompany together.
-
-Should you require to create an icon on desktop, make a shortcut. 
-
----
-MADE BY NTA
