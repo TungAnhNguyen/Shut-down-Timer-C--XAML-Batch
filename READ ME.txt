@@ -1,20 +1,20 @@
 READ ME
 ---
 
-The pack containing 3 files.They must accompany together: 
+The pack containing 1 program:
 Shutdown Timer
-1.txt
-batch1.bat
+
+After you run the program, there will always be a new text and a new batch file as side product of the operation.
 
 Should you require to create an icon on desktop, make a shortcut. 
 
 ---
 HOW TO USE
 
-First, select how long you want to set to shut down the computer.
-Then, choose the option (Shutdown, Restart, or Log Off).
+First, select how long you want to set to shut down the computer with the number of hours, minutes and seonds.
+Then, choose the option (Shutdown, Restart, or Log Off). A timer and a loading bar will appear.
 
-A pop up console with black background will appear. DO NOT close it, unless you want to cancel the process. 
+If you wish to cancel and perform another operation, simply close the program. 
 
 ---
 MADE BY NTA
