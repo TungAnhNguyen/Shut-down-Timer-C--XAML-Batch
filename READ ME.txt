@@ -1,5 +1,8 @@
 READ ME
 ---
+This program simplifies the process of setting a timer to shutdown/restart/logoff your computer. This is a PC version. 
+
+---
 
 The pack containing 1 program:
 Shutdown Timer
@@ -17,4 +20,4 @@ Then, choose the option (Shutdown, Restart, or Log Off). A timer and a loading b
 If you wish to cancel and perform another operation, simply close the program and open it again.
 
 ---
-MADE BY NTA
+MADE BY The NTA
